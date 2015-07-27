@@ -100,7 +100,7 @@ function catchresponsive_demo_slider( $options ) {
 								<article class="post hentry slides demo-image displayblock">
 									<figure class="slider-image">
 										<a title="Slider Image 1" href="'. esc_url( home_url( '/' ) ) .'">
-											<img src="'.get_template_directory_uri().'/images/gallery/slider1-1200x514.jpg" class="wp-post-image" alt="Slider Image 1" title="Slider Image 1">
+											<img src="'.get_template_directory_uri().'/uploads/2015/07/cropped-Coming-Soon-18-21.png" class="wp-post-image" alt="Slider Image 1" title="Slider Image 1">
 										</a>
 									</figure>
 									<div class="entry-container">
